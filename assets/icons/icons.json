@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/elena-papaefstathiou-logo.svg"
+ },
+ "source_md5": "92337e34c498d8d51bb83766246474e2",
+ "version": "1333f24b",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "8aae1cb95eca2c46c2c43731eac51b52"
+ ],
+ "made": "2026-10-22"
+}
