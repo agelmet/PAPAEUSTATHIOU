@@ -1,16 +1,16 @@
 {
  "source": {
   "kind": "file",
-  "ref": "assets/img/elena-papaefstathiou-logo.svg"
+  "ref": "assets/img/elena-papaefstathiou-icon.svg"
  },
- "source_md5": "92337e34c498d8d51bb83766246474e2",
- "version": "1333f24b",
+ "source_md5": "470c977cbcf28906e71a81ebbb565d84",
+ "version": "2f4e642f",
  "tile": null,
  "crop": null,
  "header": [
   "inline",
   "index.html",
-  "8aae1cb95eca2c46c2c43731eac51b52"
+  "1a4e8023deefb2d71a1e1e5dd72ea457"
  ],
- "made": "2026-10-22"
+ "made": "2026-10-26"
 }
